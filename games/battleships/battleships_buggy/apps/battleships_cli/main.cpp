@@ -1,4 +1,4 @@
-v#include "core/Game.h"
+#include "core/Game.h"
 #include "cli/ConsoleRenderer.h"
 #include "cli/Input.h"
 #include <iostream>
