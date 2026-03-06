@@ -1,4 +1,4 @@
-#include "core/Game.h"
+v#include "core/Game.h"
 #include "cli/ConsoleRenderer.h"
 #include "cli/Input.h"
 #include <iostream>
@@ -158,3 +158,5 @@ int main()
     std::cout << "Bye!\n";
     return 0;
 }
+
+//commit test
